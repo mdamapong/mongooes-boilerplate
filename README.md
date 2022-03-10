@@ -23,7 +23,8 @@
 		"body": [
 "const mongoose = require('mongoose');",
 
-"const Tweet = require('./tweet.js');",
+
+"const <---> = require('./<--->');",
 
 "require('dotenv').config();",
 
