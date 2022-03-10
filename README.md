@@ -15,6 +15,7 @@
 >> Add JS code to JS.JSON file
 
 <img width="1389" alt="4" src="https://user-images.githubusercontent.com/58996441/157768033-9a294d47-0416-44e2-a355-b32f1b1ea323.png">
+>>> "prefix" is your shortcut
 
 ```
 	"javascript snippets": {
@@ -48,3 +49,4 @@
 		"description": "to produce the main snippet for mongoose connection"
 	}
 ```
+
